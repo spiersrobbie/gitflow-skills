@@ -1,1 +1,3 @@
 some content for file04.txt
+
+Editing the content for file04.txt
